@@ -1,3 +1,2 @@
 nuevo contenido de archivo de texto
-
-algo mas
+otra cosa nueva
